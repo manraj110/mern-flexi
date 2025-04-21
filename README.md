@@ -1,1 +1,1 @@
-# MERN-flexi
+# mern-flexi
